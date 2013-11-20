@@ -1,0 +1,36 @@
+#carosel{
+    width:440px;
+    height: 265px;
+}
+#carosel img{width: 100%; height: 100%; padding:5px; border:1px solid #ccc; margin:0 5px;}
+/*.prev{float:left; width:20px; height:102px; border:0; background:#069 url(scripts/anterior.jpg) no-repeat;}
+.next{float:right; width:20px; height:102px; border:0; background:#069 url(scripts/proximo.jpg) no-repeat;}*/
+.prev{float:right; border:0;}
+.next{float:right; border:0;}
+
+.lstButtons a {
+margin-top: 2px;
+display: block;
+/*overflow: hidden;*/
+/*text-indent: -9999px;*/
+width: 11px;
+height: 11px;
+background: #b3b3b3;
+float: right;
+margin-left: 2px;
+}
+.lstButtons{
+    float: right;
+    margin: 0px;
+}
+.buttons{
+    float: right;
+}
+.lstButtons{
+    list-style: none;
+
+}
+.lstButtons li{
+    display: inline;
+    margin-right: 1px;
+}
