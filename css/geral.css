@@ -1,0 +1,13 @@
+html, body{margin: 0;padding: 0;}
+#conteudo{background: gray;}
+
+#top1{background:#ADD8E6}
+#top2{background: #ADD8E6;text-align: right;}
+
+#top3{background: #00FFFF;}
+#top4{background: #00FFFF;}
+
+#corpo1{background: blue;}
+#corpo2{background: blue;}
+#corpo3{background: blue;}
+#rodape{text-align: center; background: red;}
